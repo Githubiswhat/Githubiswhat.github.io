@@ -865,5 +865,11 @@ WantedBy=multi-user.target</pre>
 <h2 id="ubuntu20-修改主机名"><a href="#ubuntu20-修改主机名" class="headerlink" title="ubuntu20 修改主机名"></a>ubuntu20 修改主机名</h2><pre spellcheck="false" class="md-fences mock-cm md-end-block" lang="" cid="n720" mdtype="fences">hostname ubuntu</pre>
 
 ]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>ubuntu，linux</tag>
+      </tags>
   </entry>
 </search>
